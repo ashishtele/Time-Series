@@ -12,3 +12,6 @@
 2. Dynamic Regressor, Interventions (events), Transfer functions, Transformations
 3. SAS Time Series Analysis
 
+### Indian Mansoon (Rain) Season Analysis
+1. Source: data.giv.in
+2. Exploratory analysis and Model building
