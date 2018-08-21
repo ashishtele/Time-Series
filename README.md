@@ -1,5 +1,11 @@
 ## Time Series Explorations
 
+### Predicting sales of an online retail store (UK)
+1. Academic Project
+2. Exploratory data analysis
+3. Different models 
+4. Recommendation
+
 ### Bike Sharing
 1. ARIMA model
 
