@@ -21,3 +21,7 @@
 ### Indian Mansoon (Rain) Season Analysis
 1. Source: data.giv.in
 2. Exploratory analysis and Model building
+
+### tsfresh in python
+1. Feature extraction using tsfresh
+2. Model building
